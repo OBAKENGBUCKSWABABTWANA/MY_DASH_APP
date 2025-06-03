@@ -1,1 +1,2 @@
 # MY_DASH_APP
+This dashboard visualizes the relationship between GDP per capita and life expectancy for various countries in 2007. It uses an interactive scatter plot to help users explore how economic output (GDP per capita) relates to health outcomes (life expectancy), with additional context provided by population size and continent. The dashboard enables users to identify trends, outliers, and patterns across different regions of the world.
